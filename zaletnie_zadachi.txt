@@ -1,0 +1,17 @@
+Залетные задачи
+
+sprint-23
+
+уже влетели
+https://tracker.yandex.ru/KASKO-50
+https://tracker.yandex.ru/KASKO-49
+https://tracker.yandex.ru/KSKSA-16 - она же https://tracker.yandex.ru/KASKO-237
+https://tracker.yandex.ru/KSKSA-46 - она же https://tracker.yandex.ru/KASKO-238
+
+мб влетят
+https://tracker.yandex.ru/KASKO-152
+https://tracker.yandex.ru/KASKO-121
+
+----------------------------------------------------------
+
+sprint-24

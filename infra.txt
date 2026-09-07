@@ -1,0 +1,30 @@
+Infra
+
+Stage1 - 192.168.99.203
+Stage2 - 192.168.99.204
+Load1 - 192.168.99.3
+Test1 - 192.168.99.205
+
+
+Prod
+
+
+бо
+https://rmq-bo.pomerium.prod.pampadu.internal/
+Grafana
+https://grafana.pomerium.prod.pampadu.internal/
+EVS
+основной
+https://evs0-main.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+https://evs1-main.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+https://evs2-main.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+https://evsro-main.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+cpa
+https://evs0-cpa.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+https://evs1-cpa.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+https://evs2-cpa.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+https://evsro-cpa.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+страховых
+https://evs0-ins.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+https://evs1-ins.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
+https://evs2-ins.pomerium.prod.pampadu.internal/web/index.html#/clusterstatus
