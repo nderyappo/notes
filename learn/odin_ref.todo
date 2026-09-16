@@ -1,15 +1,10 @@
 +Introduction
 +Hellope!
-Variable declarations
-Assignment statements
-Literals
-
-    String and character literals
-        Escape Characters
-    Numbers
-
-Comments
-Constant declarations
++Variable declarations
++Assignment statements
++Literals
++Comments
++Constant declarations
 Packages
 
     import statement

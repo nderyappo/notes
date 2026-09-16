@@ -8,10 +8,16 @@ https://tracker.yandex.ru/KASKO-49
 https://tracker.yandex.ru/KSKSA-16 - она же https://tracker.yandex.ru/KASKO-237
 https://tracker.yandex.ru/KSKSA-46 - она же https://tracker.yandex.ru/KASKO-238
 
-мб влетят
-https://tracker.yandex.ru/KASKO-152
-https://tracker.yandex.ru/KASKO-121
-
 ----------------------------------------------------------
 
 sprint-24
+
+уже влетели
+https://tracker.yandex.ru/KASKO-71
+https://tracker.yandex.ru/KASKO-154
+https://tracker.yandex.ru/KASKO-258
+https://tracker.yandex.ru/KASKO-259
+https://tracker.yandex.ru/KASKO-266
+https://tracker.yandex.ru/KASKO-270
+
+могут влететь
